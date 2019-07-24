@@ -1,0 +1,11 @@
+tensorflow-gpu>=1.4.0
+
+tqdm
+
+colorama
+
+regex
+
+python-Levenshtein
+
+requests
